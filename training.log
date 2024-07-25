@@ -1,0 +1,105 @@
+2023-08-21 15:45:24,401 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 1, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir /Users/akash/Desktop/CNN/MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 15:45:24,438 - __main__ - INFO - Starting training process...
+2023-08-21 15:45:35,830 - __main__ - DEBUG - Epoch [1/1], Step [50/3600], Loss: 0.6070
+2023-08-21 15:45:45,919 - __main__ - DEBUG - Epoch [1/1], Step [100/3600], Loss: 0.5661
+2023-08-21 15:45:54,891 - __main__ - DEBUG - Epoch [1/1], Step [150/3600], Loss: 0.5301
+2023-08-21 15:46:05,457 - __main__ - DEBUG - Epoch [1/1], Step [200/3600], Loss: 0.5010
+2023-08-21 15:46:16,177 - __main__ - DEBUG - Epoch [1/1], Step [250/3600], Loss: 0.4751
+2023-08-21 15:46:25,971 - __main__ - DEBUG - Epoch [1/1], Step [300/3600], Loss: 0.4514
+2023-08-21 15:46:35,121 - __main__ - DEBUG - Epoch [1/1], Step [350/3600], Loss: 0.4341
+2023-08-21 15:46:44,040 - __main__ - DEBUG - Epoch [1/1], Step [400/3600], Loss: 0.4188
+2023-08-21 15:46:54,601 - __main__ - DEBUG - Epoch [1/1], Step [450/3600], Loss: 0.4051
+2023-08-21 15:47:04,314 - __main__ - DEBUG - Epoch [1/1], Step [500/3600], Loss: 0.3920
+2023-08-21 15:47:13,986 - __main__ - WARNING - No improvement in accuracy for 10 iterations.
+2023-08-21 17:31:51,794 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 1, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir /Users/akash/Desktop/CNN/MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 17:31:51,801 - __main__ - INFO - Starting training process...
+2023-08-21 17:32:50,653 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 1, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir /Users/akash/Desktop/CNN/MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 17:32:50,653 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 1, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir /Users/akash/Desktop/CNN/MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 17:32:50,674 - __main__ - INFO - Starting training process...
+2023-08-21 17:32:50,674 - __main__ - INFO - Starting training process...
+2023-08-21 17:35:17,533 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 1, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir /Users/akash/Desktop/CNN/MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 17:35:17,538 - __main__ - INFO - Starting training process...
+2023-08-21 17:36:45,399 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 1, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 17:36:45,405 - __main__ - INFO - Starting training process...
+2023-08-21 18:04:39,620 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 18:04:39,626 - __main__ - INFO - Starting training process...
+2023-08-21 18:57:15,376 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 18:57:15,381 - __main__ - INFO - Starting training process...
+2023-08-21 19:11:57,996 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:11:58,002 - __main__ - INFO - Starting training process...
+2023-08-21 19:13:00,356 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:13:00,356 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:13:00,362 - __main__ - INFO - Starting training process...
+2023-08-21 19:13:00,362 - __main__ - INFO - Starting training process...
+2023-08-21 19:14:09,524 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:14:09,529 - __main__ - INFO - Starting training process...
+2023-08-21 19:15:39,486 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:15:39,486 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:15:39,492 - __main__ - INFO - Starting training process...
+2023-08-21 19:15:39,492 - __main__ - INFO - Starting training process...
+2023-08-21 19:20:52,181 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:20:52,187 - __main__ - INFO - Starting training process...
+2023-08-21 19:20:56,184 - __main__ - DEBUG - Epoch [1/1], Step [50/7200], Loss: 0.3134
+2023-08-21 19:20:59,946 - __main__ - DEBUG - Epoch [1/1], Step [100/7200], Loss: 1.3127
+2023-08-21 19:21:04,231 - __main__ - DEBUG - Epoch [1/1], Step [150/7200], Loss: 1.3124
+2023-08-21 19:21:08,236 - __main__ - DEBUG - Epoch [1/1], Step [200/7200], Loss: 1.3109
+2023-08-21 19:21:12,061 - __main__ - DEBUG - Epoch [1/1], Step [250/7200], Loss: 0.3138
+2023-08-21 19:21:15,723 - __main__ - DEBUG - Epoch [1/1], Step [300/7200], Loss: 0.3140
+2023-08-21 19:21:19,393 - __main__ - DEBUG - Epoch [1/1], Step [350/7200], Loss: 0.3143
+2023-08-21 19:21:23,121 - __main__ - DEBUG - Epoch [1/1], Step [400/7200], Loss: 0.3151
+2023-08-21 19:21:26,887 - __main__ - DEBUG - Epoch [1/1], Step [450/7200], Loss: 1.2881
+2023-08-21 19:21:30,895 - __main__ - DEBUG - Epoch [1/1], Step [500/7200], Loss: 0.6295
+2023-08-21 19:21:34,827 - __main__ - WARNING - No improvement in accuracy for 10 iterations.
+2023-08-21 19:38:21,860 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:38:21,894 - __main__ - INFO - Starting training process...
+2023-08-21 19:39:16,344 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:39:16,349 - __main__ - INFO - Starting training process...
+2023-08-21 19:39:20,782 - __main__ - DEBUG - Epoch [1/1], Step [50/7200], Loss: 0.3133
+2023-08-21 19:39:24,479 - __main__ - DEBUG - Epoch [1/1], Step [100/7200], Loss: 1.3133
+2023-08-21 19:39:28,099 - __main__ - DEBUG - Epoch [1/1], Step [150/7200], Loss: 1.3133
+2023-08-21 19:39:31,998 - __main__ - DEBUG - Epoch [1/1], Step [200/7200], Loss: 1.3133
+2023-08-21 19:39:36,213 - __main__ - DEBUG - Epoch [1/1], Step [250/7200], Loss: 1.3133
+2023-08-21 19:39:40,691 - __main__ - DEBUG - Epoch [1/1], Step [300/7200], Loss: 1.3133
+2023-08-21 19:39:45,011 - __main__ - DEBUG - Epoch [1/1], Step [350/7200], Loss: 0.3133
+2023-08-21 19:39:50,103 - __main__ - DEBUG - Epoch [1/1], Step [400/7200], Loss: 0.3133
+2023-08-21 19:39:56,892 - __main__ - DEBUG - Epoch [1/1], Step [450/7200], Loss: 0.3136
+2023-08-21 19:40:02,905 - __main__ - DEBUG - Epoch [1/1], Step [500/7200], Loss: 1.3133
+2023-08-21 19:40:07,886 - __main__ - DEBUG - Epoch [1/1], Step [550/7200], Loss: 1.3133
+2023-08-21 19:40:11,341 - __main__ - DEBUG - Epoch [1/1], Step [600/7200], Loss: 1.3133
+2023-08-21 19:40:14,827 - __main__ - DEBUG - Epoch [1/1], Step [650/7200], Loss: 1.3133
+2023-08-21 19:40:18,288 - __main__ - DEBUG - Epoch [1/1], Step [700/7200], Loss: 0.3133
+2023-08-21 19:40:21,763 - __main__ - DEBUG - Epoch [1/1], Step [750/7200], Loss: 0.3133
+2023-08-21 19:40:25,270 - __main__ - DEBUG - Epoch [1/1], Step [800/7200], Loss: 0.3133
+2023-08-21 19:40:28,841 - __main__ - DEBUG - Epoch [1/1], Step [850/7200], Loss: 1.3133
+2023-08-21 19:40:32,725 - __main__ - DEBUG - Epoch [1/1], Step [900/7200], Loss: 1.3133
+2023-08-21 19:40:36,342 - __main__ - WARNING - No improvement in accuracy for 10 iterations.
+2023-08-21 19:41:18,595 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:41:18,601 - __main__ - INFO - Starting training process...
+2023-08-21 19:50:25,747 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:50:25,753 - __main__ - INFO - Starting training process...
+2023-08-21 19:50:29,564 - __main__ - DEBUG - Epoch [1/1], Step [50/7200], Loss: 0.3137
+2023-08-21 19:50:33,176 - __main__ - DEBUG - Epoch [1/1], Step [100/7200], Loss: 1.3109
+2023-08-21 19:50:36,752 - __main__ - DEBUG - Epoch [1/1], Step [150/7200], Loss: 1.2817
+2023-08-21 19:50:40,350 - __main__ - DEBUG - Epoch [1/1], Step [200/7200], Loss: 0.8859
+2023-08-21 19:50:43,941 - __main__ - DEBUG - Epoch [1/1], Step [250/7200], Loss: 1.1761
+2023-08-21 19:50:47,796 - __main__ - DEBUG - Epoch [1/1], Step [300/7200], Loss: 0.9388
+2023-08-21 19:50:51,573 - __main__ - DEBUG - Epoch [1/1], Step [350/7200], Loss: 0.5160
+2023-08-21 19:50:55,235 - __main__ - DEBUG - Epoch [1/1], Step [400/7200], Loss: 0.3740
+2023-08-21 19:50:59,352 - __main__ - DEBUG - Epoch [1/1], Step [450/7200], Loss: 1.1004
+2023-08-21 19:51:03,582 - __main__ - DEBUG - Epoch [1/1], Step [500/7200], Loss: 0.6588
+2023-08-21 19:51:07,722 - __main__ - WARNING - No improvement in accuracy for 10 iterations.
+2023-08-21 19:51:24,951 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:51:24,958 - __main__ - INFO - Starting training process...
+2023-08-21 19:53:11,003 - __main__ - INFO - Classifier initialized with method cnn5, input_dim 76, num_classes 2, num_epochs 1, batch_size 1, lr 0.001000, reg 0.001000, runs_dir ./MachineLearningCVE/runs/1D-CNN_conv_5_fc_1/5th_run/optim_Adam_lr_0.001_reg_0.001_bs_1
+2023-08-21 19:53:11,009 - __main__ - INFO - Starting training process...
+2023-08-21 19:53:14,865 - __main__ - DEBUG - Epoch [1/1], Step [50/7200], Loss: 0.3133
+2023-08-21 19:53:18,745 - __main__ - DEBUG - Epoch [1/1], Step [100/7200], Loss: 1.3133
+2023-08-21 19:53:22,466 - __main__ - DEBUG - Epoch [1/1], Step [150/7200], Loss: 1.3133
+2023-08-21 19:53:26,178 - __main__ - DEBUG - Epoch [1/1], Step [200/7200], Loss: 1.3132
+2023-08-21 19:53:29,877 - __main__ - DEBUG - Epoch [1/1], Step [250/7200], Loss: 1.3133
+2023-08-21 19:53:33,597 - __main__ - DEBUG - Epoch [1/1], Step [300/7200], Loss: 1.3133
+2023-08-21 19:53:37,340 - __main__ - DEBUG - Epoch [1/1], Step [350/7200], Loss: 1.3133
+2023-08-21 19:53:40,936 - __main__ - DEBUG - Epoch [1/1], Step [400/7200], Loss: 1.3133
+2023-08-21 19:53:44,550 - __main__ - DEBUG - Epoch [1/1], Step [450/7200], Loss: 0.3133
+2023-08-21 19:53:48,144 - __main__ - DEBUG - Epoch [1/1], Step [500/7200], Loss: 1.3133
+2023-08-21 19:53:51,607 - __main__ - WARNING - No improvement in accuracy for 10 iterations.
